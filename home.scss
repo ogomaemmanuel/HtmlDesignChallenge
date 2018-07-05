@@ -1,0 +1,90 @@
+body{
+
+
+    .offer-holder{
+        height: 750px;
+        position: relative;
+        .top-bar
+            {
+                background-color: transparent;
+             .top-bar-left{
+                 ul{
+                 background-color: transparent;
+                     li{
+                     list-style: none;
+                     a{
+                     color: #ffffff;
+                     font-weight: 400;
+
+                     }
+                 }
+                 }
+                 
+             }  
+            }
+            .offers{
+                color: #ffffff;
+                margin-top: 180px;
+                color: orange;
+
+                .button{
+                    border-radius: 5px;
+                    padding: 15px 30px 15px 30px;
+                    background-color: orange;
+                }
+            }
+            .nav-buttons-holder{
+                height: 95px;
+                margin-top: 145px;
+                background-color: orange;
+                padding-top: 22px;
+
+            }            
+
+    }
+    .experience-holder{
+        background-image: url("./images/8.png");
+        height: 770px;
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position: center;
+        color: white;
+        .experience{
+            margin-top: 196px;
+            .button{
+                border-radius: 5px;
+                padding: 15px 30px 15px 0px;
+                background-color: transparent;
+                color: #ffffff
+               
+            }
+            h2{
+                color: orange;
+            }
+           
+               
+            
+        }
+    }
+
+    .explore-holder{
+        background-color: #000000;
+        color: #ffffff;
+        .card{
+            background-color: #000000;
+            color: #ffffff;
+            border-style: none;
+
+        }
+
+    }
+    .right-button{
+        float: right;
+        background-color: transparent;
+        color: #F2F8FC
+        a{
+            color: #ffffff;
+        }
+    
+    }
+}
