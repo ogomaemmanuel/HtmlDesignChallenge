@@ -83,11 +83,14 @@ body .dream-home-holder {
     background-size: cover;
     background-position: center;
     color: #ffffff; }
+body .news-article-body .card-content {
+  color: #ffffff; }
 body .news-article-body .news-article-head {
   color: #C7C7C7; }
   body .news-article-body .news-article-head .right-button {
     float: right;
-    background-color: transparent; }
+    background-color: transparent;
+    color: #C7C7C7; }
 body .news-article-body h5 {
   color: #ffffff; }
 body .news-article-body .card-content-special {
